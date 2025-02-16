@@ -69,6 +69,7 @@
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tazopsuturi&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=400&hide=html,css" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tazopsuturi&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tazopsuturi&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tazopsuturi&" alt="GitHub Streak Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tazopsuturi&theme=dark" alt="GitHub Streak Stats" /></p>
+
