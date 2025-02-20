@@ -9,11 +9,15 @@
   <img src="https://komarev.com/ghpvc/?username=tazopsuturi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on [personal Test Automation projects](https://github.com/tazopsuturi?tab=repositories)  
-- 🌱 I’m currently learning **Selenium (WebDriver), Appium, Docker**  
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/tazopsuturi)  
-- 📫 How to reach me **tazopsuturi33@gmail.com**  
-- ⚡ Fun fact **I can even automate your life!**  
+- 🔭 I’m currently working on [personal Test Automation projects](https://github.com/tazopsuturi?tab=repositories)
+
+- 🌱 I’m currently learning **Selenium(WebDriver), Appium, Docker**
+
+- 👨‍💻 All of my projects are available at [https://github.com/tazopsuturi](https://github.com/tazopsuturi)
+
+- 📫 How to reach me **tazopsuturi33@gmail.com**
+
+- ⚡ Fun fact **I can even automate your life**
 
 ---
 
