@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [personal Test Automation projects](https://github.com/tazopsuturi?tab=repositories)
 
-- 🌱 I’m currently learning **Selenium(WebDriver), Appium, Docker**
+- 🌱 I’m currently learning **Appium, Kubernetes ,Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tazopsuturi](https://github.com/tazopsuturi)
 
